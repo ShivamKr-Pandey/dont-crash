@@ -43,12 +43,6 @@ A neon-themed racing game built with Python and Pygame where your goal is to nav
 
 - Python 3.x
 - Pygame library
-- Required assets (included):
-  - Car images
-  - Power-up images
-  - Background music
-  - Sound effects
-  - Custom font
 
 ## 🎨 Visual Style
 
